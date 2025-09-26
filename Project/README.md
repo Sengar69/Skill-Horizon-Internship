@@ -19,7 +19,7 @@ This project demonstrates SQL injection vulnerabilities in web applications and 
 ### Installation Steps
 
 1. **Start your web server** (XAMPP/WAMP)
-2. **Place all files** in your web server's document root (htdocs/www)
+2. **Place all files** in your web server's document root (XAMPP/htdocs/)
 3. **Run the database setup**:
    - Open browser and go to: `http://localhost/setup_database.php`
    - This will create the database and test users
